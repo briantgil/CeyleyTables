@@ -1,3 +1,0 @@
-
-# CeyleyTables
-Ceyley Table Art 
