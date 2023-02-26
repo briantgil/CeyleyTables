@@ -2,8 +2,8 @@
 # CeyleyTables
 Ceyley Table Art 
 
-Modular Multiplication
+**Modular Multiplication**
 ![modular multiplication](images/mod_mult.png)
 
-Modular Addition
+**Modular Addition**
 ![modular addition](images/mod_add.png)
